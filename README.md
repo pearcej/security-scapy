@@ -1,4 +1,4 @@
-### Codespace for [5.7. Lab: MitM with Scapy]([https://web.njit.edu/~rt494/security/#_lab_scanning_with_nmap](https://web.njit.edu/~rt494/security/#_lab_mitm_with_scapy))
+### Codespace for [5.7. Lab: MitM with Scapy](https://web.njit.edu/~rt494/security/#_lab_mitm_with_scapy)
 
 ## Computer Systems Security: Planning for Success by Ryan Tolboom
 
